@@ -2,10 +2,21 @@ component: mod_vrroom
 source: https://github.com/adamjenkins/moodle-mod_vrroom
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-10'
-releases: []
+releases:
+- version: 0.1.1
+  tag: v0.1.1
+  commit: f9abe4dbad438624659173a2fa739d33f277762e
+  moodle-version: 2026101101
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 6e83b0d88c401a35702081a0e1d5811595c509572da694ea2b50d6b886c817df
+  listing-sha256: eadf041fb5aa6361c55907f0b659174080507c1cd8c3d61b038b219e51337d94
+  published: '2026-10-11T07:04:11Z'
+  released: '2026-10-11T02:35:52Z'
 license: GPL-3.0
 summary: VR Rooms for Moodle
 security-contact: https://github.com/adamjenkins/moodle-mod_vrroom/security

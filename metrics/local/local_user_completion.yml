@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: moodle4
   date: '2022-11-10T01:33:04Z'
-checked: '2026-09-26'
+latest-tag:
+  tag: moodle4
+  date: '2022-11-10T01:26:42Z'
+checked: '2026-10-11'

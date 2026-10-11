@@ -1,5 +1,5 @@
 component: local_placeholders
-source: https://github.com/sharpchi/moodle-local_placeholders
+source: https://github.com/sharpprojects/moodle-local_placeholders
 maintainers:
 - github: sharpchi
 tier: 0

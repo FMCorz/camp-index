@@ -1,9 +1,12 @@
-updated: '2026-09-21T13:28:16Z'
+updated: '2026-10-05T10:04:30Z'
 stars: 4
 forks: 12
-open-issues: 19
+open-issues: 17
 archived: false
 latest-release:
   tag: v0.6.4-MOODLE_4.0.4_STABLE
   date: '2025-05-22T18:49:37Z'
-checked: '2026-09-26'
+latest-tag:
+  tag: v0.6.5-MOODLE_404_STABLE
+  date: '2025-07-29T11:48:18Z'
+checked: '2026-10-11'

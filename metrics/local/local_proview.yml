@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v3.3.11-local-proview
   date: '2025-07-15T12:31:27Z'
-checked: '2026-09-26'
+latest-tag:
+  tag: v3.3.11
+  date: '2025-07-15T12:29:10Z'
+checked: '2026-10-11'

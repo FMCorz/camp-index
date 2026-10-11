@@ -1,5 +1,5 @@
 component: local_phpstan
-source: https://github.com/sharpchi/moodle-local_phpstan
+source: https://github.com/sharpprojects/moodle-local_phpstan
 maintainers:
 - github: sharpchi
 tier: 0

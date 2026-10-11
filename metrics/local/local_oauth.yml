@@ -1,4 +1,4 @@
-updated: '2024-02-10T17:16:26Z'
+updated: '2026-09-28T18:57:55Z'
 stars: 33
 forks: 35
 open-issues: 2
@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: 2.0.1
   date: '2023-09-13T18:16:27Z'
-checked: '2026-09-26'
+latest-tag:
+  tag: 2.1.0
+  date: '2026-09-28T18:55:30Z'
+checked: '2026-10-11'

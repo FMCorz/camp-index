@@ -11,4 +11,4 @@ summary: Moodle plugin which helps to integrate Opencast videos into the Moodle 
 license: GPL-3.0
 dependencies:
   mod_hvp: 2024112100
-  tool_opencast: 2025080103
+  tool_opencast: 2026092600

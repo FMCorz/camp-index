@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: '20201216'
   date: '2020-12-16T14:19:05Z'
-checked: '2026-09-26'
+latest-tag:
+  tag: '20201216'
+  date: '2020-12-16T09:56:28Z'
+checked: '2026-10-11'

@@ -65,4 +65,16 @@ releases:
   published: '2026-09-24T15:09:44Z'
   released: '2026-09-24T15:03:21Z'
   maturity: stable
+- version: v3.0.8
+  tag: v3.0.8
+  commit: 180a449cb6a5187afe6f9322bae38f63a55127da
+  moodle-version: 2026101100
+  supported-moodle:
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 326f18745bfd5e41734991207770b2dd8bb5f3d54de21f5ca3dc89031eda6bc0
+  listing-sha256: 04a5e28bdfe327e9229f09aac3451434d160ea2daf20dab9b2c1f7db8843c6f1
+  published: '2026-10-11T07:38:10Z'
+  released: '2026-10-11T07:34:09Z'
 license: GPL-3.0

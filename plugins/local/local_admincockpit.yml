@@ -70,6 +70,19 @@ releases:
   - 501
   - 503
   maturity: stable
-summary: 'Admin overview page for Moodle: per-school user/course metrics, health signals
-  with click-through actions, and admin shortcuts'
+- version: 2.5.1
+  tag: v2.5.1
+  commit: 91a9d105caa7575abb11689679112e0a16324c38
+  moodle-version: 2026101100
+  supported-moodle:
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 3c27fe74a3972e8c13dccd0422b09881ab0857f59811a8d22bf248e54b5c6394
+  listing-sha256: 12c3b7ccc1bd4a7d3119fdab9ace4b093a6999b2e4d231292f93b2626b1589f6
+  published: '2026-10-11T07:55:59Z'
+  released: '2026-10-11T07:51:33Z'
+summary: >-
+  Admin overview page for Moodle: per-school user/course metrics, health signals
+  with click-through actions, and admin shortcuts
 license: GPL-3.0

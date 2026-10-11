@@ -2,10 +2,23 @@ component: vrroomenv_rooms
 source: https://github.com/adamjenkins/moodle-vrroomenv_rooms
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-10'
-releases: []
+releases:
+- version: 0.1.1
+  tag: v0.1.1
+  commit: 542a394ba28761d17c74b093769b3fdfbd544422
+  moodle-version: 2026101100
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  dependencies:
+    mod_vrroom: 2026100804
+  zip-sha256: 5837cd996fdbd819e10756f1c942bc0da63291a13dedcd2a217c7e2f6ea25637
+  listing-sha256: 9cb7f3680da9e0e551f49286b5fdbd373fbeeac47772c1453438d48a3bca2212
+  published: '2026-10-11T07:04:33Z'
+  released: '2026-10-11T02:35:53Z'
 license: GPL-3.0
 dependencies:
   mod_vrroom: 2026100804

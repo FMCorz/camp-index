@@ -3,7 +3,8 @@ source: https://github.com/ponlawat-w/moodle-accessibility_textalignment
 maintainers:
 - github: ponlawat-w
 tier: 0
-status: active
+status: moved
+moved-to: https://camp-registry.org/plugin/local_accessibility.html
 discovered: '2026-09-05'
 releases: []
 license: GPL-3.0

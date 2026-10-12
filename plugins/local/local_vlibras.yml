@@ -2,12 +2,22 @@ component: local_vlibras
 source: https://github.com/gfariasonline/moodle-local_vlibras
 maintainers:
 - github: gfariasonline
-tier: 1
+tier: 2
 security-contact: https://github.com/gfariasonline/moodle-local_vlibras/security/advisories/new
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.1.2
+  tag: v1.1.2
+  commit: 7c8774b2d77f2c2f6e92f3ab46ca4e964b3e2a09
+  moodle-version: 2026101200
+  supported-moodle:
+  - '4.5'
+  zip-sha256: b0de48376c7cfbd0adb970e9777568bd93cedf7a3f0520b437cd6bd8cb1cd185
+  listing-sha256: fcfaa1f877937db5adb006d811d31e579b186717776ed9d6ecd1741f54282098
+  published: '2026-10-12T12:05:43Z'
+  released: '2026-10-12T10:55:04Z'
 license: GPL-3.0
 summary: VLibras in Moodle

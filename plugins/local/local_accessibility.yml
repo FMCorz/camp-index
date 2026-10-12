@@ -3,12 +3,27 @@ source: https://github.com/adamjenkins/moodle-local_accessibility
 source-repo-id: 733318236
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 3.0.3
+  tag: v3.0.3
+  commit: c54344081923a16206a2767aed2d7f6daa2b9a54
+  moodle-version: 2026101200
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 031c8c06fbe5038dbe11be084a6f59550c86678d8e1c592619378d71fa2bb2f7
+  listing-sha256: 07120d638e401e116e6a7e054498fc583c10d0ba8daada35a66a80226cfbd37f
+  published: '2026-10-12T15:08:07Z'
+  released: '2026-10-12T14:56:13Z'
 license: GPL-3.0
-summary: An accessibility plugin that allows users to customize the visual appearance
+summary: >-
+  An accessibility plugin that allows users to customize the visual appearance
   of a Moodle to suit individual preferences.
 security-contact: https://github.com/adamjenkins/moodle-local_accessibility/security
 labels:

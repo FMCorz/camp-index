@@ -21,6 +21,20 @@ releases:
   listing-sha256: b67fc7356e7eb8dfa7fd2f4bbbb0b4e9d83453c757013841a7463e9eab60bac9
   published: '2026-10-04T14:32:25Z'
   released: '2026-10-04T11:48:12Z'
+- version: 1.0.3
+  tag: v1.0.3
+  commit: 4895208ccd03abb5f7f5c8dd95f5b2ea5c97afe3
+  moodle-version: 2026101200
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 3aab0314db3f09cb2c855ce23df9395b79a64b25ef6a1abc97a04562d6ed53d3
+  listing-sha256: 27d50f08971c5ef922c62e19dc81a365ae80596daccb5235e0b98b138c43e52a
+  published: '2026-10-12T12:24:16Z'
+  released: '2026-10-12T10:55:58Z'
 license: GPL-3.0
 summary: Furigana for Moodle
 security-contact: https://github.com/adamjenkins/moodle-filter_ruby/security

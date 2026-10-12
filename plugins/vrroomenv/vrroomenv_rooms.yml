@@ -1,5 +1,6 @@
 component: vrroomenv_rooms
 source: https://github.com/adamjenkins/moodle-vrroomenv_rooms
+source-repo-id: 1411838471
 maintainers:
 - github: adamjenkins
 tier: 2

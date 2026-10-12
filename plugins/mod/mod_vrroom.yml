@@ -1,5 +1,6 @@
 component: mod_vrroom
 source: https://github.com/adamjenkins/moodle-mod_vrroom
+source-repo-id: 1410248392
 maintainers:
 - github: adamjenkins
 tier: 2

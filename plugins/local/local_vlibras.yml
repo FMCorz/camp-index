@@ -1,5 +1,6 @@
 component: local_vlibras
 source: https://github.com/gfariasonline/moodle-local_vlibras
+source-repo-id: 1198528730
 maintainers:
 - github: gfariasonline
 tier: 2

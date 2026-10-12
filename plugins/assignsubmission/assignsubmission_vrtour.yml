@@ -1,5 +1,6 @@
 component: assignsubmission_vrtour
 source: https://github.com/adamjenkins/moodle-assignsubmission_vrtour
+source-repo-id: 1413086912
 maintainers:
 - github: adamjenkins
 tier: 2

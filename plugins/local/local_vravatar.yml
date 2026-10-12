@@ -1,5 +1,6 @@
 component: local_vravatar
 source: https://github.com/adamjenkins/moodle-local_vravatar
+source-repo-id: 1412642900
 maintainers:
 - github: adamjenkins
 tier: 2

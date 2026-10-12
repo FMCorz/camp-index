@@ -1,5 +1,6 @@
 component: vrroomruntime_companion
 source: https://github.com/adamjenkins/moodle-vrroomruntime_companion
+source-repo-id: 1410264914
 maintainers:
 - github: adamjenkins
 tier: 2

@@ -2,7 +2,10 @@ component: local_vlibras
 source: https://github.com/gfariasonline/moodle-local_vlibras
 maintainers:
 - github: gfariasonline
-tier: 0
+tier: 1
+security-contact: https://github.com/gfariasonline/moodle-local_vlibras/security/advisories/new
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []

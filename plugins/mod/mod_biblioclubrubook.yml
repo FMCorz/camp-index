@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: Книга из ЭБС Biblioclub
 dependencies:
-  block_biblioclub_ru: 2020083102
+  block_biblioclub_ru: 2026101200

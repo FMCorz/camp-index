@@ -8,5 +8,5 @@ discovered: '2026-07-11'
 releases: []
 license: GPL-3.0
 dependencies:
-  block_exaaichat: 2026022000
+  block_exaaichat: 2026092900
   local_table_sql: 2026011200

@@ -3,5 +3,8 @@ stars: 0
 forks: 0
 open-issues: 9
 archived: false
-checked: '2026-09-27'
+latest-tag:
+  tag: v1.1.0
+  date: '2025-07-01T20:21:52Z'
+checked: '2026-10-12'
 ci: moodle-plugin-ci

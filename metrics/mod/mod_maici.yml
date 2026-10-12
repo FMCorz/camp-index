@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: MAICI-v.1.5-stable
   date: '2024-05-13T07:16:48Z'
-checked: '2026-09-27'
+latest-tag:
+  tag: MAICI-v.1.5-stable
+  date: '2024-05-13T07:13:27Z'
+checked: '2026-10-12'

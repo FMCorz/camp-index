@@ -3,4 +3,7 @@ stars: 7
 forks: 10
 open-issues: 39
 archived: false
-checked: '2026-09-27'
+latest-tag:
+  tag: v502.1-DataDream
+  date: '2026-05-17T09:22:43Z'
+checked: '2026-10-12'

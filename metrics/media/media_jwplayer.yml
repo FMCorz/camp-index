@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: moodle-media_jwplayer_7-0.5
   date: '2019-11-22T22:57:36Z'
-checked: '2026-09-27'
+latest-tag:
+  tag: moodle-media_jwplayer_7-0.5
+  date: '2019-11-22T22:23:22Z'
+checked: '2026-10-12'

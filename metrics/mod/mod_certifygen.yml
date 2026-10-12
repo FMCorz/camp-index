@@ -3,4 +3,7 @@ stars: 2
 forks: 4
 open-issues: 27
 archived: false
-checked: '2026-09-27'
+latest-tag:
+  tag: v1.0.3_MOODLE_405
+  date: '2025-11-21T12:37:03Z'
+checked: '2026-10-12'

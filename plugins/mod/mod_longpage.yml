@@ -1,5 +1,5 @@
 component: mod_longpage
-source: https://github.com/CATALPAresearch/moodle_mod_longpage
+source: https://github.com/CATALPAresearch/moodle-mod_longpage
 maintainers:
 - github: CATALPAresearch
 tier: 0

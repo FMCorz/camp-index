@@ -1,4 +1,4 @@
-updated: '2026-09-11T17:27:39Z'
+updated: '2026-10-08T20:01:06Z'
 stars: 0
 forks: 0
 open-issues: 10
@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: 1.2.06
   date: '2026-03-11T22:52:43Z'
-checked: '2026-09-27'
+latest-tag:
+  tag: 1.2.07
+  date: '2026-03-11T23:03:05Z'
+checked: '2026-10-12'

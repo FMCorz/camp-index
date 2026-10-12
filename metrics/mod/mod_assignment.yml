@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: '2014050700'
   date: '2014-05-07T01:27:25Z'
-checked: '2026-09-27'
+latest-tag:
+  tag: '2014050700'
+  date: '2014-05-07T01:16:02Z'
+checked: '2026-10-12'

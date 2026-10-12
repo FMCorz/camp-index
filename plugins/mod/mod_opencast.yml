@@ -12,4 +12,4 @@ summary: Moodle activity plugin which can be used to display and view Opencast e
   or series and an embedded player allows students to watch these videos directly
   in Moodle.
 dependencies:
-  tool_opencast: 2025080100
+  tool_opencast: 2026092600

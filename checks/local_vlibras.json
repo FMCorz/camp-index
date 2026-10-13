@@ -1,0 +1,1 @@
+{"checked": "2026-10-12", "checker": 5, "component": "local_vlibras", "versions": {"1.1.2": {"commit": "7c8774b2d77f2c2f6e92f3ab46ca4e964b3e2a09", "errors": 0, "facets": {"amd": 4, "code": 5}, "files": 0, "phplint": true, "rules": {}, "tag": "v1.1.2", "warnings": 0}}}

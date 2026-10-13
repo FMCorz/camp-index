@@ -83,7 +83,34 @@ releases:
   listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
   published: '2026-10-03T13:16:28Z'
   released: '2026-10-03T13:09:09Z'
+- version: v45-0.13.0
+  tag: v45-0.13.0
+  commit: 69a67a3f44d34c17ece6fd2ea501bf3c3e74b918
+  moodle-version: 2026101300
+  supported-moodle:
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  zip-sha256: 92fbc42f93554ed0229cc1947f434abd9fd6413b82a32a53255972015388f507
+  listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
+  published: '2026-10-13T15:39:46Z'
+  released: '2026-10-13T15:04:22Z'
+- version: v0.13.0
+  tag: v0.13.0
+  commit: 89231b8470b8a66c3cb55c087861102b45bec5d3
+  moodle-version: 2026101301
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 573f4f4c78ff305f38860503dae3ea07112bd9225811811d6a8f4e6be3784ffc
+  listing-sha256: ef4afe2877ebe320ee607f3b6ebc2b2ed9426c9f273a43cec6e6b6016561b412
+  published: '2026-10-13T15:42:16Z'
+  released: '2026-10-12T13:09:55Z'
 license: GPL-3.0
-summary: Help students study better without leaving Moodle. QuickNote lets learners
-  capture quotes, write notes in a native sidebar, and jump right back to the original
-  text.
+summary: >-
+  Help students study better without leaving Moodle. QuickNote lets learners
+  capture quotes, write notes in a native sidebar, and jump right back to the
+  original text.

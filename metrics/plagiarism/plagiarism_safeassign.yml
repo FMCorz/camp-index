@@ -3,4 +3,7 @@ stars: 2
 forks: 4
 open-issues: 5
 archived: false
-checked: '2026-09-28'
+latest-tag:
+  tag: MR-4.0-MP2
+  date: '2023-04-11T17:08:30Z'
+checked: '2026-10-13'

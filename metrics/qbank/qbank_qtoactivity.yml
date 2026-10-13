@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: '500'
   date: '2025-10-24T04:24:50Z'
-checked: '2026-09-28'
+latest-tag:
+  tag: '500'
+  date: '2025-10-24T04:16:48Z'
+checked: '2026-10-13'

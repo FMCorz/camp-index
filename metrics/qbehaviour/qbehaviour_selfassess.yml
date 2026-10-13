@@ -3,4 +3,7 @@ stars: 2
 forks: 3
 open-issues: 4
 archived: false
-checked: '2026-09-28'
+latest-tag:
+  tag: v1.4
+  date: '2023-05-13T19:42:35Z'
+checked: '2026-10-13'

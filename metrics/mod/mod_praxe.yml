@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v2015081200
   date: '2015-08-14T09:25:05Z'
-checked: '2026-09-28'
+latest-tag:
+  tag: v2015081200
+  date: '2015-08-14T09:07:24Z'
+checked: '2026-10-13'

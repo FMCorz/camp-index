@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v2.2.8-2018082000-moodle3.5
   date: '2018-08-21T17:04:28Z'
-checked: '2026-09-28'
+latest-tag:
+  tag: v2.2.10-2020041238-moodle3.8
+  date: '2020-04-13T02:52:42Z'
+checked: '2026-10-13'

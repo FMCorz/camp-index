@@ -1,9 +1,12 @@
 updated: '2025-10-18T10:10:34Z'
 stars: 0
-forks: 0
-open-issues: 3
+forks: 1
+open-issues: 4
 archived: false
 latest-release:
   tag: v3.5.5
   date: '2025-09-15T20:43:30Z'
-checked: '2026-09-28'
+latest-tag:
+  tag: v3.5.5
+  date: '2025-09-15T20:42:27Z'
+checked: '2026-10-13'

@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v1.1.1-prefactor
   date: '2022-10-25T16:55:17Z'
-checked: '2026-09-28'
+latest-tag:
+  tag: v1.1.1-prefactor
+  date: '2022-10-24T12:52:46Z'
+checked: '2026-10-13'

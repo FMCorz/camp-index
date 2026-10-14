@@ -28,6 +28,32 @@ releases:
   published: '2026-07-25T05:41:13Z'
   released: '2026-04-21T13:48:55Z'
   maturity: stable
+- version: 1.2.5
+  tag: v1.2.5
+  commit: 7a30515e8e48fccd3c8e5a6326e158a146a4ebaf
+  moodle-version: 2026101300
+  supported-moodle:
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  supported-range:
+  - 311
+  - 503
+  maturity: stable
+  zip-sha256: 752724baaf4fd753e54c7a98c9f79645623acd20ff9faacb1333b7757097f367
+  published: '2026-10-14T03:56:42Z'
+  released: '2026-10-13T11:31:27Z'
+  dependencies:
+    block_gearup: 2025020700
+  listing-sha256: fa57892ac9516408538c80333e7cfbe418645a134f2821b7ceef54448ceeef2c
 license: GPL-3.0
 summary: Moodle plugin to control access to course content based on Level Up Quest.
 dependencies:

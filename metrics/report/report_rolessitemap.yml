@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v500.5.0.1
   date: '2025-04-22T14:50:46Z'
-checked: '2026-09-29'
+latest-tag:
+  tag: v500.5.0.1
+  date: '2025-04-22T14:44:15Z'
+checked: '2026-10-14'

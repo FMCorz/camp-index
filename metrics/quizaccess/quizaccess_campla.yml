@@ -6,5 +6,8 @@ archived: false
 latest-release:
   tag: v5.2-r2
   date: '2026-07-25T13:47:15Z'
-checked: '2026-09-29'
+latest-tag:
+  tag: v5.2-r2
+  date: '2026-07-25T13:45:09Z'
+checked: '2026-10-14'
 ci: moodle-plugin-ci

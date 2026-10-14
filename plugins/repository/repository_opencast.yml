@@ -11,4 +11,4 @@ summary: Moodle plugin which allows teachers to insert links to Opencast videos 
   a course. The repository displays all videos that belong to the Opencast series
   that are connected to the course.
 dependencies:
-  tool_opencast: 2025080100
+  tool_opencast: 2026092600

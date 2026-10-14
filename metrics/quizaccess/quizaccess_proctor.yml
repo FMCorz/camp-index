@@ -6,4 +6,7 @@ archived: false
 latest-release:
   tag: v1.5.2-Quiz_Access_Proctor
   date: '2025-08-28T10:22:23Z'
-checked: '2026-09-29'
+latest-tag:
+  tag: v1.5.2
+  date: '2025-08-28T10:18:25Z'
+checked: '2026-10-14'

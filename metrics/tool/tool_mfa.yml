@@ -1,9 +1,12 @@
 updated: '2026-09-28T06:10:54Z'
 stars: 34
 forks: 40
-open-issues: 99
+open-issues: 98
 archived: false
 latest-release:
   tag: '2020021401'
   date: '2020-02-14T00:41:27Z'
-checked: '2026-09-30'
+latest-tag:
+  tag: '2020021401'
+  date: '2020-02-14T00:39:58Z'
+checked: '2026-10-15'

@@ -1,5 +1,5 @@
 component: tool_canvasuplifter
-source: https://github.com/verzog/moodle-tool_canvasuplifter
+source: https://github.com/verzog/moodle-tool_courseuplift
 maintainers:
 - github: verzog
 tier: 0

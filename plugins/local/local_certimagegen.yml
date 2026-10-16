@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_customcert: 2025041403
+summary: 📌 Local Certificate Image Generator

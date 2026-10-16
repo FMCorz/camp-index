@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
+summary: The database tags field creates tags from comma separated text, similar to
+  the way that Moodle generates tags from the 'Interests' field in the User Profile,
+  but specifically for the database activity. When a record is displayed these are
+  hyperlinked and when clicked will display a filtered search r

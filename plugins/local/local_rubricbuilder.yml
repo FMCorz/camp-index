@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
+summary: A local plugin that adds a Rubric Builder button to the "Information for
+  graders" editor on quiz question editing pages, allowing teachers to visually build
+  rubrics and marking guides without writing HTML by hand.

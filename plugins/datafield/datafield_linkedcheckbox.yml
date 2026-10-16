@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
+summary: The database linked checkbox field is an enhanced version of the current
+  checkbox field that allows the individual values in the checkboxes to show as hyperlinks
+  when the record is displayed. Clicking the hyperlinks will display a filtered search
+  result based on the checkbox value.

@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
+summary: The filedownloader plugin lets you download files attached to questions within
+  a quiz.

@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
+summary: The database tags block is a block that will display a tag cloud in a course.
+  You can select any database instance within a course, and choose any checkbox, linked
+  checkbox or database tag fields within those databases to be shown in the block.
+  This is NOT linked to the Moodle Tags block- it only sh

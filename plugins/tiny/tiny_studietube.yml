@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   filter_studietube: 2025092308
+summary: Installation

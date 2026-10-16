@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
+summary: The blockcoursestatistics plugin for Moodle provides comprehensive statistics
+  about course activities.

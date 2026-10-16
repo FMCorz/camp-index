@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
+summary: Integrity Quiz (modintegrityquiz) is a Moodle activity module for monitored
+  online assessments. It combines structured MCQ/True-False authoring with optional
+  camera snapshots, tab-switch monitoring, server-side suspension, per-question timing,
+  Moodle gradebook integration, and teacher review tools.

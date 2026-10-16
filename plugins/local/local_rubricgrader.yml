@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-01'
 releases: []
 license: GPL-3.0
+summary: 'A local plugin that turns the "Information for graders" rubric on Moodle''s
+  manual grading pages into a click-to-grade interface. Markers click rubric cells,
+  enter marking guide scores or tick checklist items; the plugin totals the marks,
+  scales them to the question''s maximum, and writes a formatted '

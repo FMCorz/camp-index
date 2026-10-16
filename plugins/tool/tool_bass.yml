@@ -1,0 +1,9 @@
+component: tool_bass
+source: https://github.com/adamjenkins/moodle-tool_bass
+maintainers:
+- github: adamjenkins
+tier: 0
+status: active
+discovered: '2026-10-16'
+releases: []
+license: GPL-3.0

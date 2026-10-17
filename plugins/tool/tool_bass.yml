@@ -2,10 +2,21 @@ component: tool_bass
 source: https://github.com/adamjenkins/moodle-tool_bass
 maintainers:
 - github: adamjenkins
-tier: 1
+tier: 2
 status: active
 discovered: '2026-10-16'
-releases: []
+releases:
+- version: 0.2.0
+  tag: v0.2.0
+  commit: 46cbf58da3785950944a9a83e01c007b5ea46afc
+  moodle-version: 2026101600
+  supported-moodle:
+  - '5.2'
+  - '5.3'
+  zip-sha256: 7e29666bd488df38089571c30b731afe3d229455650dd7ac62645df409e031f2
+  listing-sha256: 5fdd3067a45010eedc7d40fd99fbcfa572b2c1ee61ddd27a3e613332e1ad28dc
+  published: '2026-10-17T04:38:25Z'
+  released: '2026-10-16T16:43:53Z'
 license: GPL-3.0
 security-contact: https://github.com/adamjenkins/moodle-tool_bass/security
 labels:

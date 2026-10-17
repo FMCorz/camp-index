@@ -66,5 +66,19 @@ releases:
   - 404
   - 503
   maturity: stable
+- version: 3.4.0
+  tag: v3.4.0
+  commit: da2f616824af04d8a7202e90b60b83f01fe1fc75
+  moodle-version: 2026101703
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: bec4937a602e798492c9b1200110e2ad30050a4046ed52347c7f923d41326e15
+  listing-sha256: 51624c9ff7dc2ee88575e3c1583a07437a09a89700cad65c6a8e4ac518c85018
+  published: '2026-10-17T17:54:05Z'
+  released: '2026-10-17T17:43:03Z'
 summary: A Moodle plugin providing a GUI to the administration of a MoodleBox
 license: GPL-3.0

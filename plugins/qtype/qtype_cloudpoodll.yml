@@ -3,7 +3,7 @@ source: https://github.com/justinhunt/moodle-qtype_cloudpoodll
 source-repo-id: 188049003
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/justinhunt/moodle-qtype_cloudpoodll/security/advisories/new
@@ -11,6 +11,21 @@ labels:
 - paid-service
 - external-account
 - commercial-support-available
-releases: []
+releases:
+- version: 1.0.30
+  tag: v1.0.30
+  commit: 844252e8f5dce46455eeeaa1e25fa5034050a35b
+  moodle-version: 2026101800
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: c5bc148b549792e1686e76cfe2bf499a36cf8e6768409e3991a6c32dac3cd84f
+  listing-sha256: 61e106a1413936460c2e40957502f15f89732454d6d2ca9e3f672754a7750349
+  published: '2026-10-18T14:18:44Z'
+  released: '2026-10-18T14:11:32Z'
 license: GPL-3.0
 summary: Cloud Poodll Recording Question

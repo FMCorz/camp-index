@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   tiny_panoptoltibutton: 2025112600
+summary: Moodle removes iframes from content written by users without trusted text

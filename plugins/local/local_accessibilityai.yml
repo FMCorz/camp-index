@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: Accessibility assistance for Moodle that combines deterministic HTML/PHP
+  checks with semantic AI review. The plugin

@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Ce bloc de tableau de bord permet de regrouper par onglet toutes les informations
+  essentielles pour les étudiants.

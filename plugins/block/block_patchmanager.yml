@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_patchmanager: 2026092003
+summary: A Dashboard block showing the state of this site's code customisations.

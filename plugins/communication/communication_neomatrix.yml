@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_oauth2: any
+summary: communicationneomatrix is a Moodle communication provider that does two things
+  core's

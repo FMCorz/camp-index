@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: משבצת Moodle שמציגה קורסים לפי תגיות קורס קיימות, בתצוגת כרטיסים בסגנון סקירת
+  הקורסים (myoverview), עם אפשרויות סינון, מיון וקהל יעד.

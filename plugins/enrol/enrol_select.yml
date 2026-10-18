@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Ce module réunit sur une page l'ensemble de l'offre de formation proposée
+  aux utilisateurs.

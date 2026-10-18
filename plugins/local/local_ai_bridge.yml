@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: localaibridge is a tenant-aware AI orchestration layer for Moodle. It centralizes
+  purposes, access control, credits,

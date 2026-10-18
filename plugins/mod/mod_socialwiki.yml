@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-02'
 releases: []
 license: GPL-3.0
+summary: This is a Moodle plugin. It is a social kind of wiki, where many page versions
+  may coexist, and where users can connect ('follow' each other) in a social network.
+  See http://carleton.ca/nmai/research-projects/universal-peer-to-peer/social-wiki/
+  for details.

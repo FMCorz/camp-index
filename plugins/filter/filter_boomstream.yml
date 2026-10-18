@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Boomstream Filter automatically binds embedded Boomstream players on Moodle
+  course pages to the currently logged-in Moodle user, so videos play only for authorised
+  viewers and access is checked against your Boomstream Pay Per View subscription.

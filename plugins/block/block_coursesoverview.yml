@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_coursesoverview: 2026092302
+summary: Moodle-Block für interne Zwecke. Er zeigt auf der Kursseite den Fortschritt
+  an —

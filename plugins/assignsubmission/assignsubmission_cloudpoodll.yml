@@ -3,14 +3,30 @@ source: https://github.com/justinhunt/moodle-assignsubmission_cloudpoodll
 source-repo-id: 148744219
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
-security-contact: https://github.com/justinhunt/moodle-assignsubmission_cloudpoodll/security/advisories/new
+security-contact: >-
+  https://github.com/justinhunt/moodle-assignsubmission_cloudpoodll/security/advisories/new
 labels:
 - paid-service
 - external-account
 - commercial-support-available
-releases: []
+releases:
+- version: 1.0.50
+  tag: v1.0.50
+  commit: 0dc5203f1ee55a884b7d7b199d2a8023602a42c8
+  moodle-version: 2026101800
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: ee822446120e9f54aeff4496bd37ef4eb12e8dc8074a0f9f4e62ddcdb39ea11e
+  listing-sha256: 41b8c24bbaee0133b4dec6f56e8ac512ce2be4a7a82cd011c3c4801af3857aca
+  published: '2026-10-18T14:07:51Z'
+  released: '2026-10-18T14:02:36Z'
 license: GPL-3.0
 summary: CloudPoodll Moodle assignment

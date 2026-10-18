@@ -3,7 +3,7 @@ source: https://github.com/justinhunt/moodle-tiny_poodll
 source-repo-id: 656409861
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/justinhunt/moodle-tiny_poodll/security/advisories/new
@@ -11,6 +11,21 @@ labels:
 - paid-service
 - external-account
 - commercial-support-available
-releases: []
+releases:
+- version: 1.0.15
+  tag: v1.0.15
+  commit: cb015e24f9f94fc5e4ab3d52d8a96c628b22c58e
+  moodle-version: 2026101800
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: be62add25e6da103bb10fd6ffd4a11cf06ffeef18fc9f23e8669692064282050
+  listing-sha256: 76043cdba395abbf3e0f7b100982f1b2e4625ba248731c56db5e98c9f1f56358
+  published: '2026-10-18T14:18:50Z'
+  released: '2026-10-18T14:11:34Z'
 license: GPL-3.0
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin

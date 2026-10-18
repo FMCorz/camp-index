@@ -3,7 +3,7 @@ source: https://github.com/justinhunt/moodle-mod_readaloud
 source-repo-id: 36919121
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/justinhunt/moodle-mod_readaloud/security/advisories/new
@@ -11,6 +11,19 @@ labels:
 - paid-service
 - external-account
 - commercial-support-available
-releases: []
+releases:
+- version: 2.1.33
+  tag: v2.1.33
+  commit: 76075e5fee7e68a9dfd5873e1606d1cac9b540b4
+  moodle-version: 2026101801
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 8b57f94bbbca9aaead5561ddf1550d8e4100c20c419ae427b06dba8eb1175b39
+  listing-sha256: 5c9be9744cefd529d3ac284215ef37cc6789786e9c3cf408c15a284c6dd43289
+  published: '2026-10-18T14:08:02Z'
+  released: '2026-10-18T14:02:39Z'
 license: GPL-3.0
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin

@@ -3,7 +3,7 @@ source: https://github.com/justinhunt/moodle-mod_solo
 source-repo-id: 325976577
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-07-11'
 security-contact: https://github.com/justinhunt/moodle-mod_solo/security/advisories/new
@@ -11,6 +11,21 @@ labels:
 - paid-service
 - external-account
 - commercial-support-available
-releases: []
+releases:
+- version: 1.0.79
+  tag: v1.0.79
+  commit: 7bb244105b85f7b475845e18ed22ae8e8ff8b246
+  moodle-version: 2026101800
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 1ad933e8693e01bda2138a867b187a8406cb144e593762b2f5f82317541797fd
+  listing-sha256: ae2c841e492981f2272955a99fc9019644c25eae8a923f58871d3b0eeddd3cdb
+  published: '2026-10-18T14:07:51Z'
+  released: '2026-10-18T14:02:34Z'
 license: GPL-3.0
 summary: This repository is a Composer/Packagist mirror of the Moodle plugin

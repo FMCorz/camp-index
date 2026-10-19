@@ -3,7 +3,7 @@ source: https://github.com/justinhunt/moodle-mod_wordcards
 source-repo-id: 166611646
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 status: active
 discovered: '2026-08-17'
 security-contact: https://github.com/justinhunt/moodle-mod_wordcards/security/advisories/new
@@ -11,5 +11,20 @@ labels:
 - paid-service
 - external-account
 - commercial-support-available
-releases: []
+releases:
+- version: 1.3.92
+  tag: v1.3.92
+  commit: 0359d0698f96e9367729ca5240d0769d954e08d9
+  moodle-version: 2026101404
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: 10c0b8d6d8fed86858939d95f9820bc748d444afacdd5eee820bebe5d73e69de
+  listing-sha256: 39ab55a3a1102073a660e8ae4a95c6c1a640f33f89b1ce8eb64ea4c43996e4f8
+  published: '2026-10-19T08:38:14Z'
+  released: '2026-10-19T08:28:00Z'
 license: GPL-3.0

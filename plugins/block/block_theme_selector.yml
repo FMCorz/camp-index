@@ -29,5 +29,19 @@ releases:
   - 405
   - 502
   maturity: stable
+- version: 405.1.4
+  tag: V405.1.4
+  commit: c0867fcffbfe4258adef1e5c9276595e15cb9711
+  moodle-version: 2024101704
+  supported-moodle:
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: e7d930a37dd1721f10ef0031e9c9351018136b9a4ed73a50e699b9eab939d815
+  listing-sha256: 3c30625c9a59fabc5ab2dc19d1bed574f9317b36708813187a13e4fe26c7c854
+  published: '2026-10-19T17:34:25Z'
+  released: '2026-10-19T17:33:22Z'
 license: GPL-3.0
 summary: A block to quickly change themes. Great for theme developers!

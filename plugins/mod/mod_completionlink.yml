@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: A Moodle activity module that embeds a direct link to another course and
+  automatically tracks whether the student has completed it. Completion of the linked
+  course drives activity completion on the host course, enabling downstream restriction
+  rules and learning-path gating without any manual grading

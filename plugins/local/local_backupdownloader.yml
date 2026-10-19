@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Moodle local plugin that keeps Moodle backup archives (.mbz) downloadable
+  in frozen contexts. In a frozen course it adds a Backup downloads tab to the course
+  secondary navigation. The page lists every backup the current user can download,
+  from the course file areas and from their private backup area

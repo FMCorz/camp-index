@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: localhealth is a Moodle local plugin that will provide a platform-independent
+  HTTP API for reporting the operational state of a Moodle instance.

@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Quick Decision is a small Moodle activity for fast single-choice decisions
+  where there is no correct answer.

@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Pair is a Moodle activity for forming pairs of students inside a course.
+  It is useful for peer exercises, partner work,

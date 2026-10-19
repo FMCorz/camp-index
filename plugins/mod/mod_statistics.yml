@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Atividade Moodle para cálculo instantâneo de estatística descritiva a partir
+  de uma sequência de números.

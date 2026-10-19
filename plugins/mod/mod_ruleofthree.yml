@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Rule of Three is a Moodle activity for exploring proportional calculations
+  interactively. It is intended for teachers who want to provide a simple calculator
+  inside a course and for learners who need to see how values change while preserving
+  a direct or inverse proportion.

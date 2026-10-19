@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: reportforumtriage is a teacher-only course report for Moodle that helps a
+  teacher triage forum discussions

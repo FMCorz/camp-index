@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_autograder: 2026093000
+summary: Shows what Autograder  decided for every student, per activity, course and
+  site

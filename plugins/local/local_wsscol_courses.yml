@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   enrol_wsscol: 2024070800
+summary: localwsscolcourses

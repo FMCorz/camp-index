@@ -7,3 +7,7 @@ status: active
 discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
+summary: 'Moodle-Block von Moodle in Niedersachsen e. V. für den Materialien-Hub:
+  Lehrkräfte finden öffentliche Kurse nach Kursbereich, Schulform, Fach, Niveaustufe
+  und Suchbegriff, sehen sie in der Vorschau an, bewerten sie und laden die Kurssicherung
+  herunter. Begriffe: GLOSSARY.md.'

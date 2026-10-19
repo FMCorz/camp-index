@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Forum Reactions adds lightweight emoji reactions to posts in Moodle's standard
+  Forum activity without modifying

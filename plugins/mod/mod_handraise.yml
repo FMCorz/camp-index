@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Moodle activity for organising requests to speak during classroom sessions
+  or synchronous meetings.

@@ -8,4 +8,6 @@ discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
 dependencies:
-  local_geniai: 2026071001
+  local_ai_bridge: 2026093001
+summary: Local Moodle plugin that receives a teacher prompt plus uploaded source files,
+  extracts their content, asks every

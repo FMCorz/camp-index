@@ -1,9 +1,12 @@
-updated: '2026-10-02T19:03:16Z'
+updated: '2026-10-18T12:29:10Z'
 stars: 1
 forks: 0
 open-issues: 0
 archived: false
+latest-release:
+  tag: v5.3-r1
+  date: '2026-10-18T12:29:22Z'
 latest-tag:
-  tag: archive/stable-pre-recut-2026-06-13
-  date: '2026-06-05T17:55:13Z'
-checked: '2026-10-04'
+  tag: v5.3-r1
+  date: '2026-10-18T12:21:07Z'
+checked: '2026-10-19'

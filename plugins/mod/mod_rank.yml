@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Ranking is an activity in Moodle where students place between 5 and 10 items
+  in order, according to a criterion explained by the teacher. It works for exercises
+  involving priority, chronology, importance, procedural steps, or comparing alternatives.

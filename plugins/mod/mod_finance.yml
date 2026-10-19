@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: 'Financial Calculator is a Moodle activity for teaching and practising common
+  financial-mathematics calculations. Teachers add the activity to a course and choose
+  which calculation modes students can use, while students enter values directly in
+  the calculator and receive the result together with the '

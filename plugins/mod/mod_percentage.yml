@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: modpercentage is a Moodle activity for calculating and visualizing percentages
+  directly inside a course. It is useful in mathematics, finance, business and any
+  learning activity where students need to understand not only the numeric result,
+  but also how the percentage relates to the original values.

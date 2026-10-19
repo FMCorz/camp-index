@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: QR Code Check is a Moodle activity for recording attendance or participation
+  through a short-lived QR code displayed by a teacher. Each projection is treated
+  as an independent attendance session, while Moodle capabilities control who can
+  manage sessions, view reports and register participation.

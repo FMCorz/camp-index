@@ -7,3 +7,4 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Private per-user notes inside a Moodle course.

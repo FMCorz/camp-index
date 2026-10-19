@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Local Moodle plugin for enrolling existing users in a course from a pasted
+  list of email addresses.

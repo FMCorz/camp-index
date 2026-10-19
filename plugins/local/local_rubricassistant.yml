@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: localrubricassistant is a Moodle local plugin that helps teachers create,
+  review and compare advanced grading

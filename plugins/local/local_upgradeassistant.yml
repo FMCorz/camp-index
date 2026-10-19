@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: 'Upgrade Assistant is a free local plugin for Moodle administrators preparing
+  a manual upgrade. It examines the current site and a Moodle code tree prepared as
+  the upgrade target, highlights potential problems, and records the checks and decisions
+  made before the change. The plugin provides guidance '

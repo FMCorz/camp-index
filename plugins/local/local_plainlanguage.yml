@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: localplainlanguage audits the clarity of teacher-authored Moodle content
+  without turning an AI model into an

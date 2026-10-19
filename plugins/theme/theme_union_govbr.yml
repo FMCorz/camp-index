@@ -9,3 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   theme_boost_union: 2024041600
+summary: 'Theme Union Gov.br is a Moodle child theme based on the widely adopted Boost
+  Union theme. It is specifically designed to adapt Moodle to the Brazilian Federal
+  Government''s official design standard: the GovBR Design System (GovBR DS).'

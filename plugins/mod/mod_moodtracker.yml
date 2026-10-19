@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: 'modmoodtracker adds a class mood check-in activity to Moodle. Students select
+  how they feel from five options, and teachers see an aggregated dashboard showing
+  the class distribution, response count, eligible participants and pending responses.
+  The activity does not publish an individual''s response '

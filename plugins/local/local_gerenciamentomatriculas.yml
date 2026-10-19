@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Plugin local para Moodle 5.0+ que adiciona, no perfil do usuário, a opção
+  Gerenciamento de matrículas.

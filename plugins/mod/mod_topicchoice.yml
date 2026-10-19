@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Moodle activity for allocating seminar, project, laboratory or presentation
+  topics with a fixed number of places per

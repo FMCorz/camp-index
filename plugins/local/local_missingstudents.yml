@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Missing students is an early-warning report for Moodle. It helps teachers
+  and course managers identify students who have not accessed a course or the Moodle
+  site recently.

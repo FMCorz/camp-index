@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: 'localcourseaudit is a Moodle local plugin that works as a course linter:
+  objective problems are detected by'

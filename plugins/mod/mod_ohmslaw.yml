@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Ohm's Law is a Moodle activity for calculating electrical relationships from
+  any two positive quantities among voltage

@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: An interactive Moodle activity for working with matrices directly inside
+  a course. Students can enter matrix values, run the operations enabled by the teacher,
+  and follow the calculation step by step without leaving Moodle.

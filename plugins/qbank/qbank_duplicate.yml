@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: qbankduplicate is a Moodle question-bank plugin that finds exact, near-textual,
+  and semantic duplicate questions

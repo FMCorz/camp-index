@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Apply, verify and roll back source patches to third-party Moodle plugins
+  on a production

@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Chat activity for Moodle with a file-backed read path designed to keep polling
+  away from the database.

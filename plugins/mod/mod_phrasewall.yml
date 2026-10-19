@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Phrase wall is a Moodle activity for collecting one short sentence from each
+  student and displaying the submissions as a visual wall. It is designed for quick
+  reflections, summaries, opinions, takeaways, exit tickets and other activities where
+  the teacher wants concise participation instead of long-

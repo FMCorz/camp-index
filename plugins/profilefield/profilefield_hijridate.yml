@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: A native Moodle custom user profile field plugin implementing the official
+  Saudi Umm al-Qura Calendar Engine (islamic-umalqura), providing manual selection,
+  automatic Gregorian-to-Hijri derivation, event-driven profile syncing, GDPR/Privacy
+  API compliance, AMD frontend converter, and an administrati

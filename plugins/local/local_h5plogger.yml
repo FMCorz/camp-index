@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: A Moodle local plugin that captures detailed learner interactions inside
+  H5P activities (modh5pactivity) for learning analytics and institutional research
+  (IR) purposes.

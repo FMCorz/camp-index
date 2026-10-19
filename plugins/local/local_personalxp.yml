@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: Personal XP adds a non-competitive experience-point system to Moodle. XP
+  represents the learner's own progress through a

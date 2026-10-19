@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_edguidance: 2026100100
+summary: Part of teacher guidance - see local/edguidance/README.md for the design,
+  which covers all

@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Moodle TinyMCE plugin (tinytransparent) that marks selected text as transparent.
+  The text stays in the document (selectable, readable by assistive tech) but is hidden
+  when the content is viewed on the site.

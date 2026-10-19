@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: 'Agreement is a Moodle activity module for publishing a term, policy, declaration,
+  or other text that requires each participant to record an explicit decision: Agree
+  or Disagree.'

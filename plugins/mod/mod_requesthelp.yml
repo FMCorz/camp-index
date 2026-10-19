@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: 'Request Help is a Moodle activity for situations where students need to
+  ask for help during a lesson without interrupting the flow of the class or losing
+  track of who asked first. Each activity works as a help queue: students choose a
+  configured subject, describe the question or problem, and submit '

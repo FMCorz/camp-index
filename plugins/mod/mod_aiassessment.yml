@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: AI Assessment is an open-source Moodle activity module that transforms conventional
+  static testing into an interactive, AI-powered conversational examination (viva
+  voce), Socratic dialogue, or scenario-based interview.

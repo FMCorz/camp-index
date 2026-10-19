@@ -9,3 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: modoralassessment is a formative oral-assessment activity for Moodle. A learner
+  answers a sequence of spoken or typed questions, while AI can adapt the next question
+  and organise transcript evidence for a teacher to review.

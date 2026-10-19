@@ -10,3 +10,4 @@ license: GPL-3.0
 dependencies:
   local_patchmanager: 2026092203
   mod_zoom: any
+summary: A patch pack for localpatchmanager

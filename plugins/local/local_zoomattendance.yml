@@ -9,3 +9,4 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_zoom: 2026082400
+summary: A Moodle local plugin that turns the session and participant data the

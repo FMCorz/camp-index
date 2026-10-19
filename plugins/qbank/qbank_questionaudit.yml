@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: qbankquestionaudit is a Moodle question bank plugin that audits existing
+  questions. It is intentionally not a

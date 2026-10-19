@@ -1,5 +1,5 @@
 component: report_activities
-source: https://github.com/dvizioon/MOODLE-REPORT-ACTIVITIES
+source: https://github.com/dvizioon/MOODLE-REPORT_ACTIVITIES
 maintainers:
 - github: dvizioon
 tier: 0
@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: User · Course · Activity type · Activity grade · Course final grade · % ·
+  Grade 0–10

@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: O PlayerRaid é um plugin de atividade para Moodle focado em gamificação cooperativa
+  (PvE - Player vs Environment). Os alunos trabalham juntos para derrotar um "Chefão"
+  (Boss) respondendo corretamente a perguntas sorteadas do Banco de Questões do Moodle.

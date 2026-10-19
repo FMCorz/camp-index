@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Simple Journal is a private reflective-writing activity for Moodle. Students
+  maintain one editable entry per activity, and authorised teachers can read individual
+  reflections.

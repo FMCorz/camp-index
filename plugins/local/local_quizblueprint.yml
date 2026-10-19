@@ -9,3 +9,6 @@ releases: []
 license: GPL-3.0
 dependencies:
   mod_quiz: 2023100900
+summary: Quiz Blueprint Builder lets you set up a quiz's structure — its sections
+  and random-question rules — by filling in a spreadsheet instead of clicking through
+  Moodle's question editor row by row.

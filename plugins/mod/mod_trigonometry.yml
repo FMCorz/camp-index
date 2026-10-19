@@ -7,3 +7,6 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Trigonometry is a Moodle activity module that gives students an interactive
+  calculator for exploring angles, trigonometric functions and the unit circle directly
+  inside a course.

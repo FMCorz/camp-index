@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: localcoursetranslate translates the textual structure of a Moodle course
+  while treating Moodle markup and identifiers

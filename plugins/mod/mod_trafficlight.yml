@@ -7,3 +7,7 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Traffic Light is a Moodle activity that lets students quickly tell their
+  teacher how well they are following a lesson or a particular topic. Instead of waiting
+  until the end of class, the teacher can see which students need an explanation or
+  additional support.

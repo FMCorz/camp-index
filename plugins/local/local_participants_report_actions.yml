@@ -7,3 +7,4 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Adds an "Actions" column to the course Participants report, with

@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Completion Board is a lightweight Moodle activity for real-world tasks that
+  do not require a file submission.

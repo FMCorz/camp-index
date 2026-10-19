@@ -7,3 +7,5 @@ status: active
 discovered: '2026-10-03'
 releases: []
 license: GPL-3.0
+summary: Bridge is an open-source Moodle local plugin for creating reliable event-driven
+  automations between Moodle and external HTTPS services.

@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 dependencies:
   local_ai_bridge: 2026093001
+summary: localgradebookdoctor is a read-only diagnostic and explanation tool for the
+  Moodle gradebook. It is designed for

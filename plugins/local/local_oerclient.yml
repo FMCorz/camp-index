@@ -113,6 +113,19 @@ releases:
   listing-sha256: e6a77eb4578bd46d350674d2330b935f1a3a81adc9f29da38c8b78623b26ac99
   published: '2026-10-04T14:20:38Z'
   released: '2026-10-04T11:48:13Z'
+- version: 1.0.8
+  tag: v1.0.8
+  commit: 60a9e644ab8c4714965c326c6465c37017c3b61e
+  moodle-version: 2026102001
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 4ac14a89463b547def2a6d4e9632f429353e1362c510400aaaa1dae55d52e1e9
+  listing-sha256: 655ba2611f59d8e7d52de4c6de7e3090cb563e52e2cab53e7c04d0da721bc2b8
+  published: '2026-10-20T15:13:06Z'
+  released: '2026-10-20T14:22:20Z'
 license: GPL-3.0
 summary: A client plugin to enable communication with an OER Exchange site
 security-contact: https://github.com/adamjenkins/moodle-local_oerclient/security

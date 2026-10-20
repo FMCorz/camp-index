@@ -53,6 +53,21 @@ releases:
   listing-sha256: 436ce3722ff51896730fccd23a99febfef7b29c439b72108f6f43b7c4b42b4f3
   published: '2026-10-04T14:02:32Z'
   released: '2026-10-04T11:48:11Z'
+- version: 1.0.6
+  tag: v1.0.6
+  commit: 38f6e01748d7fc6b63325ac9ef367d14444d1265
+  moodle-version: 2026102001
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_oerclient: 2026080101
+  zip-sha256: 649a36092038c60fbb68f68c5e24c15f6c594c69881a5ee15212bbf58e6ea007
+  listing-sha256: 970a454cc1cd808c4dae5c90f48de5a11cb071e90ed89c47e13e8cc0fa54aed5
+  published: '2026-10-20T15:08:43Z'
+  released: '2026-10-20T14:36:45Z'
 license: GPL-3.0
 security-contact: https://github.com/adamjenkins/moodle-block_oerclient/security
 labels:

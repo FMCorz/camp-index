@@ -9,3 +9,5 @@ releases: []
 license: GPL-3.0
 summary: A persistent, collaborative whiteboard for Moodle activities. Teachers add
   a
+dependencies:
+  mod_lti: any

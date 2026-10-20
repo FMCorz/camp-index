@@ -1,7 +1,7 @@
 updated: '2026-09-27T11:12:05Z'
 stars: 22
 forks: 60
-open-issues: 25
+open-issues: 29
 archived: false
 latest-release:
   tag: V500.1.1
@@ -9,5 +9,5 @@ latest-release:
 latest-tag:
   tag: V500.1.2
   date: '2026-09-27T11:07:59Z'
-checked: '2026-10-05'
+checked: '2026-10-20'
 ci: moodle-plugin-ci

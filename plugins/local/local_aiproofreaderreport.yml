@@ -8,6 +8,6 @@ discovered: '2026-09-04'
 releases: []
 license: GPL-3.0
 dependencies:
-  mod_aiproofreader: 2026091001
+  mod_aiproofreader: 2026101300
 summary: An admin/manager-facing analytics report for modaiproofreader (AI Proofreader),
   built for National Trail Local Schools.

@@ -9,4 +9,4 @@ releases: []
 license: GPL-3.0
 summary: Dixeo AI Editor plugin for Moodle
 dependencies:
-  local_dixeo: 2026090700
+  local_dixeo: 2026100700

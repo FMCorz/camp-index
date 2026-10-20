@@ -158,6 +158,19 @@ releases:
   listing-sha256: 09f5f76a634e041522a0d2c44c47920f71f2ff659c7c91ea557d53feb5341ccf
   published: '2026-10-19T09:33:26Z'
   released: '2026-10-19T09:04:24Z'
+- version: 1.2.0
+  tag: v1.2.0
+  commit: 67505c6c0a78ed691811ca6e243dbdd9ea3e7ec1
+  moodle-version: 2026102000
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: ea7fbe64c08becae29e01053c643750abb0aeca77165b9e89cd624797eff2b9a
+  listing-sha256: cae23bcae8f138c5099abe3e4ec754419265ba5432abfade823274b425216902
+  published: '2026-10-20T09:27:38Z'
+  released: '2026-10-20T09:04:28Z'
 license: GPL-3.0
 summary: An exchange plugin to enable Open Educational Resource sharing
 security-contact: https://github.com/adamjenkins/moodle-local_oerexchange/security

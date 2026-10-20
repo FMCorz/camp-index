@@ -53,6 +53,29 @@ releases:
   published: '2026-10-03T11:29:16Z'
   released: '2026-10-02T07:01:24Z'
   listing-sha256: 53267549d702a249237520433b10a30a37c1ccc8500dad3dce1ce105904d1533
+- version: 1.2.0
+  tag: v1.2.0
+  commit: f46404d83022371b2742b4e983d81926e4470457
+  moodle-version: 2026102000
+  supported-moodle:
+  - '3.9'
+  - '3.10'
+  - '3.11'
+  - '4.0'
+  - '4.1'
+  - '4.2'
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  zip-sha256: 89eeaae904a958d0d49ad9a241cf0296ba9fbc7e4dfe99baa454eea7ff4ee38f
+  listing-sha256: 53267549d702a249237520433b10a30a37c1ccc8500dad3dce1ce105904d1533
+  published: '2026-10-20T11:25:24Z'
+  released: '2026-10-20T11:16:25Z'
 license: GPL-3.0
-summary: Enables users to easily inject and modify content using shortcodes provided
-  by other Moodle plugins.
+summary: >-
+  Enables users to easily inject and modify content using shortcodes provided by
+  other Moodle plugins.

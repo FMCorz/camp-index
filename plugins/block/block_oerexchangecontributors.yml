@@ -37,6 +37,21 @@ releases:
   listing-sha256: 8b519c61b2a98a7e0b2205b013e71ea453e599eec87d9f01f2308612d2d60c92
   published: '2026-10-04T14:26:59Z'
   released: '2026-10-04T11:48:12Z'
+- version: 1.0.3
+  tag: v1.0.3
+  commit: c7a62e8fc5a67bd7169ee0d801cd17ec133a9d90
+  moodle-version: 2026102001
+  supported-moodle:
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  - '5.3'
+  dependencies:
+    local_oerexchange: 2026082200
+  zip-sha256: 7ea010c6afeb2e18940c5fef8db068ff4e8dc0b353f49776986716c98f28dd29
+  listing-sha256: cba5bf51ffd52622b39602f0604c2c5720b3e6a6afce879b7749e03e366f34b5
+  published: '2026-10-20T15:09:06Z'
+  released: '2026-10-20T14:22:20Z'
 license: GPL-3.0
 summary: List the contributors to an OER Exchange.
 dependencies:

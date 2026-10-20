@@ -2,7 +2,10 @@ component: tiny_generico
 source: https://github.com/justinhunt/moodle-tiny_generico
 maintainers:
 - github: justinhunt
-tier: 0
+tier: 1
+security-contact: https://github.com/justinhunt/moodle-tiny_generico/security/advisories/new
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []

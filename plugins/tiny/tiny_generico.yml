@@ -2,12 +2,27 @@ component: tiny_generico
 source: https://github.com/justinhunt/moodle-tiny_generico
 maintainers:
 - github: justinhunt
-tier: 1
+tier: 2
 security-contact: https://github.com/justinhunt/moodle-tiny_generico/security/advisories/new
 labels:
 - fully-free
 status: active
 discovered: '2026-07-11'
-releases: []
+releases:
+- version: 1.0.7
+  tag: v1.0.7
+  commit: c169a2f583415d152f81582d28e8bc6c768019ce
+  moodle-version: 2026102000
+  supported-moodle:
+  - '4.3'
+  - '4.4'
+  - '4.5'
+  - '5.0'
+  - '5.1'
+  - '5.2'
+  zip-sha256: a05169c22df8986b868b0c98fe40e9ee30fa0e5e1053d8765eb54fcf7bf93ffc
+  listing-sha256: 62f99c094b6ed6276ed2a2487c38e85153bc354b461a5a4ca40bdb0b42e8241a
+  published: '2026-10-20T14:46:06Z'
+  released: '2026-10-20T14:45:43Z'
 license: GPL-3.0
 summary: Generico for TinyMCE

@@ -2,7 +2,10 @@ component: filter_genericotwo
 source: https://github.com/justinhunt/moodle-filter_genericotwo
 maintainers:
 - github: justinhunt
-tier: 0
+tier: 1
+security-contact: https://github.com/justinhunt/moodle-filter_genericotwo/security/advisories/new
+labels:
+- fully-free
 status: active
 discovered: '2026-07-11'
 releases: []
